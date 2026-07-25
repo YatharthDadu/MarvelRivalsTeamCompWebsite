@@ -1,0 +1,1020 @@
+All Marvel Rivals Season 9 Team Ups
+Skip to content
+Main Menu
+Gaming News
+Gaming News
+PC News
+PlayStation News
+Xbox News
+Board Game News
+Culture News
+Game Development News
+Reviews
+Features
+Opinion
+Guides
+Gambling
+Casinos
+Betting
+Free Games
+Casinos
+Australia
+Online Casinos Australia
+Online Pokies Australia
+PayID Online Casinos Australia
+New Casinos Australia
+Casino Apps Australia
+Fast Withdrawal Casinos Australia
+Crypto Casinos Australia
+New Zealand
+Online Casinos New Zealand
+Online Pokies New Zealand
+Top Paying Online Casinos New Zealand
+Fastest Payout Casino New Zealand
+Betting
+Australia
+Betting Sites Australia
+Betting Apps Australia
+Free Games
+Free Games
+Free Casino Games
+Free Blackjack
+Free Baccarat
+Free Craps
+Free Crash Games
+Free Keno Online
+Free Poker
+Free Video Poker
+Free Roulette
+Free Slots
+Popular Slots
+Mega Moolah
+Gates of Olympus
+Gates of Olympus Super Scatter
+Sweet Bonanza
+Gates of Olympus 1000
+Sugar Rush 1000
+Ultimate Slot of America
+Le Viking
+Le Pharaoh
+Wanted Dead or a Wild
+Sugar Rush
+Le Bandit
+Legacy of Dead
+Duel at Dawn
+Book of Dead
+Crypto Games
+Plinko
+Aviator
+Game Providers
+ELK Studios
+Evolution Gaming
+Hacksaw Gaming
+Microgaming
+NetEnt
+Penguin King
+Play’n GO
+Playtech
+Pragmatic Play
+Push Gaming
+Red Tiger Gaming
+RTG
+Search
+Home
+Guides
+All Marvel Rivals Season 9 Team Ups
+All Marvel Rivals Season 9 Team Ups
+By
+Craig Robinson
+Senior Writer
+Last Updated:
+13/07/2026
+With the release of Marvel Rivals Season 9, the developers restructured how its team-up system works. Previously, players had to select two heroes that had a team up for the season, and then could get the benefits of that team up. Instead, NetEase Games is trialling something different, where every hero gets two baseline team up effects to choose from. Then, if that heroes is in the game, it gets a slightly better effect to make it stronger.
+The new system should encourage more players to try out heroes and new combo abilities, without needing to force someone to play a pick they otherwise might now want. And, it also further encourages players to still team up if they want to. Here’s a closer look at all the Marvel Rivals Season 9 team ups.
+If you need more Season 9 Marvel Rivals content, check out the
+Death of Apocalypse event solutions
+.
+All Marvel Rivals Season 9 Team Ups
+These are all the current effects based on looking at the heroes and their team up passive effects. The exact values are reportedly done by
+Reddit researchers on this doc
+. However, with balance patches, it’s likely that these values will constantly fluctuate as NetEase balance out heroes and certain team up passives over the course of the season. We’ve also seen some of these effects get nerfed already, such as those on the
+release patch notes
+, with the likes of Iron Man’s x Thor effect getting nerfed.
+Hero
+Team-Up Ability 1
+Team-Up Ability 2
+Adam Warlock (Strategist)
+Storm provides: Cosmic Cyclone
+•
+Basic:
+Soul Bonded allies receive a Speed Boost. Soul Bond range is increased.
+•
+Enhanced:
+Speed Boost is increased. Bonded allies also receive a Damage Boost.
+Ultron provides: Flawless Design
+•
+Basic:
+Cosmic Cluster now heals allies. Successful healing also reduces Avatar Life Stream’s cooldown. Ammo capacity is increased.
+•
+Enhanced:
+Cosmic Cluster now has splash damage and splash healing.
+Angela (Vanguard)
+Star-Lord provides: Asgardians of the Galaxy
+•
+Basic:
+Reveals enemies on activation. Second activation performs slam that Grounds enemies. Cooldown applied.
+•
+Enhanced:
+Slam now provides Bonus Health per target hit, up to a maximum.
+Loki provides: Odin’s Unacknowledged
+•
+Basic:
+Send a charging illusion forward that carries enemies. Cooldown applied.
+•
+Enhanced:
+Ability gains a second charge.
+Black Cat (Duelist)
+Black Panther provides: Feline Alliance
+•
+Basic:
+Absorb damage to release an explosion that damages and Knocks back enemies. Gain a Speed Boost and Bonus Health. Cooldown applied.
+•
+Enhanced:
+No required threshold of absorbed damage. Explosion can be triggered at any time.
+Spider-Man provides: Binding Ties
+•
+Basic:
+Turn of Fortune now applies a Spider-Tracer. Attacking an enemy with a Spider-Tracer deals bonus damage. Ability also gains a second charge.
+•
+Enhanced:
+Turn of Fortune now Immobilizes enemies already marked with a Spider-Tracer.
+Black Panther (Duelist)
+Storm provides: Damisa-Yao
+•
+Basic:
+Deal damage, apply Slow, and attach Vibranium Marks to enemies. Cooldown applied.
+•
+Enhanced:
+Slow effect is increased. Enemies within range are launched inwards.
+Magik provides: Dimensional Shortcut
+•
+Basic:
+Teleport to your position from a few seconds ago, gaining Bonus Health, then deal an explosion that applies Vibranium Marks. Cooldown applied.
+•
+Enhanced:
+Teleportation can now be cancelled manually.
+Black Widow (Duelist)
+Hawkeye provides: Allied Agents
+•
+Basic:
+Land hits with Red Room Rifle to build Focus. Land crits to build more Focus. At max Focus, the next hit has Damage Boost and can pierce.
+•
+Enhanced:
+Landing crits stops Focus from expiring.
+Phoenix provides: Burning Bullets
+•
+Basic:
+Red Room Rifle has increased Fire Rate. Electro-Plasma Blast is now a hitscan explosion.
+•
+Enhanced:
+Electro-Plasma Blast gains a second charge.
+Blade (Duelist)
+Moon Knight provides: Blade of Khonshu
+•
+Basic:
+Cleave forward with a short dash. Then slash multiple times, sending Darkmoon Blades that bounce to nearby targets with a damage falloff per bounce. Cooldown applied.
+•
+Enhanced:
+Whirlwind Slash generates an additional Darkmoon Blade.
+Captain America provides: Bleed for Battle
+•
+Basic:
+Gain a stack of Bloodline Awakening for damage taken.
+•
+Enhanced:
+Taking critical health damage instantly activates Bloodline Awakening and adds bonus stacks. The stack cap is increased.
+Captain America (Vanguard)
+Winter Soldier provides: Stars Aligned
+•
+Basic:
+Leap to an ally, providing Bonus Health to both of you. Absorb some of the ally’s incoming damage to yourself. Cooldown applied.
+•
+Enhanced:
+Leaping to an ally now provides a Speed Boost. Upon confirmation, leap to Winter Soldier to apply Bonus Health to all nearby allies.
+Thor provides: Voltaic Union
+•
+Basic:
+Activating will make Sentinel Strike pierce enemies. Cooldown applied.
+•
+Enhanced:
+Each hit now deals splash damage.
+Cloak & Dagger (Strategist)
+The Hood provides: Oblivion Shroud
+•
+Basic:
+Veil of Lightforce now halts in place after a moment, decreasing enemy damage passing through it. Terror Cape now halts in place after a moment, decreasing enemy healing passing through it.
+•
+Enhanced:
+Both veils increase in size and allies receive Damage Boost when passing through them.
+Luna Snow provides: Frozen Haven
+•
+Basic:
+Freeze in place, becoming Invulnerable and healing yourself and nearby allies. Cooldown applied.
+•
+Enhanced:
+Healing is increased.
+Cyclops (Duelist)
+Phoenix provides: Slim and Red
+•
+Basic:
+Ricochet Force applies burn damage over time. Hitting a burning target with Optic Blast or Concussive Beam instantly triggers a portion of the remaining damage.
+•
+Enhanced:
+Spark detonations reduce Ricochet Force cooldown.
+Gambit provides: Kinetic Kin
+•
+Basic:
+Activate to gain a Speed Boost and increased jump height. Cooldown applied.
+•
+Enhanced:
+Activating now increases attack speed for Optic Blast and Concussive Beam.
+Daredevil (Duelist)
+Iron Fist provides: Comprehensive Defense
+•
+Basic:
+Objection! now deflects projectiles from all directions and deals damage to nearby enemies.
+•
+Enhanced:
+Objection! now also applies self-healing.
+Black Widow provides: Devilish Affair
+•
+Basic:
+Deal damage in a cone that inflicts Slow. Cooldown applied.
+•
+Enhanced:
+Increase damage cone size and now recover Fury on hit.
+Deadpool (All Roles)
+Hela provides: “Hel-Yeah, Honey”
+•
+Basic:
+Either Desert Eagles or Katanas can be upgraded once more. Upgraded Desert Eagles now pierce, and emojis now home in on enemies. Upgraded Katanas deal an explosion after hitting an enemy multiple times.
+•
+Enhanced:
+Both weapons can now be upgraded.
+Gambit provides: Gumbo Chimichangas
+•
+Basic:
+Leap forward and deal damage to nearby enemies upon landing. Cooldown applied. Landing deals variable damage depending on chosen role.
+•
+Enhanced:
+Decrease the ability’s cooldown. Landing now inflicts Stun.
+Devil Dinosaur (Vanguard)
+The Punisher provides: Primal Punishment
+•
+Basic:
+Activate to replace Primal Bite with cannons that fire for a duration. Cannonballs deal direct damage, splash damage, and inflict Bleed. Cooldown applied.
+•
+Enhanced:
+The Punisher can ride Devil Dinosaur for Damage Reduction. Devil Dinosaur also absorbs damage inflicted on The Punisher.
+Jeff the Land Shark provides: Surf & Turf
+•
+Basic:
+Impact Beam now provides piercing healing for allies and has increased range and duration.
+•
+Enhanced:
+Jeff the Land Shark can ride Devil Dinosaur, providing both heroes with Damage Reduction and healing.
+Doctor Strange (Vanguard)
+Hulk provides: Gamma Maelstrom
+•
+Basic:
+Maelstrom of Madness’s range is increased and Dark Magic gained by hitting enemies is increased. Anti-Heal curse is also removed. Cooldown is increased.
+•
+Enhanced:
+Using Maelstrom of Madness will now retain energy. Energy also now does not decay over time.
+Invisible Woman provides: Psionic Vortex
+•
+Basic:
+Maelstrom of Madness now launches enemies inwards. Shield of the Seraphim now has increased health.
+•
+Enhanced:
+Maelstrom of Madness now provides Bonus Health based on damage dealt, up to a set maximum.
+Elsa Bloodstone (Duelist)
+Devil Dinosaur provides: Prehistoric Trap
+•
+Basic:
+Smoky Snare has a larger detection range and will now also release a gas that deals damage over time.
+•
+Enhanced:
+Ability gains a second charge and multiple Smoky Snares can be active at once.
+Deadpool provides: Loudmouth Mercs
+•
+Basic:
+Living Bullet now Slows targets, deals damage over time, and Taunts targets. Bullet then auto-recalls, healing Elsa based on damage dealt and adding a stack to Inherited Instinct.
+•
+Enhanced:
+The rate of acquiring Inherited Instinct is also increased.
+Emma Frost (Vanguard)
+Mantis provides: Spirit Breaker
+•
+Basic:
+Dealing damage to Psychic Spear’s crystal now grants Bonus Health to you based on damage dealt.
+•
+Enhanced:
+Breaking Psychic Spear’s crystal now also grants additional Bonus Health and reduces the cooldown for Psychic Spear.
+Luna Snow provides: Iced Out Diamond
+•
+Basic:
+Deal damage in a cone that inflicts Slow and summons a wall of ice. Cooldown applied.
+•
+Enhanced:
+Attacks dealt in Diamond Form now apply Slow. Telepathic Pulse also applies Slow scaled to current energy.
+Gambit (Strategist)
+Magneto provides: Favorable Odds
+•
+Basic:
+Summon a dome that heals allies and damages enemies in range, while also launching enemies back. Cooldown applied.
+•
+Enhanced:
+The dome now explodes at the end of its duration, dealing additional damage and healing.
+Jubilee provides: Sparkling Staff
+•
+Basic:
+Provide healing to nearby allies and damage to nearby enemies while blocking damage from projectiles. Cooldown applied.
+•
+Enhanced:
+Bayou Bash and Big Easy Impact now provide additional healing over time.
+Groot (Vanguard)
+Mantis provides: Wild Wall
+•
+Basic:
+Summon a wall that provides healing over time and Bonus Health over time to nearby allies. Cooldown applied.
+•
+Enhanced:
+Wall now upgrades after providing a threshold of healing. Upgraded wall heals allies faster and has more health.
+Jeff the Land Shark provides: Bubble Buddies
+•
+Basic:
+Activate to float in a shield that can float and provide healing. Cooldown applied.
+•
+Enhanced:
+Healing effect is doubled and excess healing becomes Bonus Health. Jeff can also ride Groot, but he will not receive healing.
+Hawkeye (Duelist)
+Psylocke provides: Senbonzakura Strike
+•
+Basic:
+Blast Arrow becomes Psionic Arrow, allowing multiple arrows to be nocked and fired at once. Arrows do not deal splash damage.
+•
+Enhanced:
+Arrow damage is decreased, but nocking speed is increased and arrows deal splash damage.
+Cloak & Dagger provide: Moonlit Slash
+•
+Basic:
+Crescent Slash now fires a projectile that heals and boosts healing for allies, and damages and applies Vulnerability to enemies.
+•
+Enhanced:
+Ability now has decreased healing and damage but fires multiple projectiles in quick succession.
+Hela (Duelist)
+Venom provides: Hel Tendrils
+•
+Basic:
+Soul Drainer now deals more damage, pulls nearby enemies to its center, and applies Slow based on distance from center.
+•
+Enhanced:
+Piercing Night now fire more Nightsword Thorns which restore health.
+Namor provides: Deep Wrath
+•
+Basic:
+Participating in a KO spawns an Undead Monstro that expires, autonomously dealing damage. Piercing Night will command the Monstro to attack the nearest enemy you hit.
+•
+Enhanced:
+Attacks during Goddess of Night spawn additional Undead Monstros.
+Hulk (Vanguard)
+Captain America provides: Savage Slam
+•
+Basic:
+Activate to jump and slam the ground, dealing damage to nearby enemies and recovering your ability cooldowns based on your current health. Can be activated mid-jump. Cooldown applied.
+•
+Enhanced:
+Slam has increased damage and applies Vulnerability to enemies.
+Wolverine provides: Gamma Fastball
+•
+Basic:
+Activate to become Furious for a period, gaining Speed Boost and increased attack speed, plus Unstoppable when health is low. Cooldown applied.
+•
+Enhanced:
+Hulk can throw Wolverine, also activating the Furious state on its own separate cooldown.
+Human Torch (Duelist)
+Jubilee provides: Fiery Sparks
+•
+Basic:
+Send out projectiles that deal damage autonomously to all nearby enemies over a period of time. Cooldown applied.
+•
+Enhanced:
+Also gain Bonus Health for each projectile that hits an enemy.
+Storm provides: Storming Ignition
+•
+Basic:
+Summon a dome that deals damage and damage over time, pulling enemies to its center. Cooldown applied.
+•
+Enhanced:
+Flame Tornados can now ignite Storm’s Omega Hurricane, increasing its radius and its duration up to a maximum.
+Invisible Woman (Strategist)
+Human Torch provides: United Siblings
+•
+Basic:
+Guardian Shield has increased health and now boosts damage from projectiles fired by allies that pass through it.
+•
+Enhanced:
+Guardian Shield is larger and has further increased health.
+Mister Fantastic provides: First Family
+•
+Basic:
+Enter Invisible state with nearby allies, gaining healing and a Speed Boost. Invisible state ends briefly if damage is taken or dealt. Cooldown applied.
+•
+Enhanced:
+Invisible lasts longer, heals more, and has a stronger Speed Boost.
+Iron Fist (Duelist)
+The Thing provides: Iron & Stone
+•
+Basic:
+Activate to uppercut nearby enemies, Launching Up enemies. Cooldown applied.
+•
+Enhanced:
+Uppercut can be followed up with a second attack.
+White Fox provides: Kumiho Palm
+•
+Basic:
+Yat Jee Chung Kuen now provides healing to nearby allies.
+•
+Enhanced:
+Healing is increased and Yat Jee Chung Kuen’s lock-on distance is increased.
+Iron Man (Duelist)
+Hulk provides: Gamma Charge
+•
+Basic:
+Armor Overdrive now provides a Gamma Shield and increases the damage of Repulsor Blast’s direct hits, its splash damage, and Unibeam even further.
+•
+Enhanced:
+Invincible Pulse Cannon now also provides a Gamma Shield and its projectile deals damage to nearby enemies as it flies.
+Thor provides: Thunder Overdrive
+•
+Basic:
+The range of Unibeam is increased. Unibeam also deals bonus damage to enemies caught near the beam’s outer ring. Armor Overdrive increases bonus damage and outer ring size.
+•
+Enhanced:
+Armor Overdrive’s cooldown is reduced.
+Jeff the Land Shark (Strategist)
+Venom provides: Guardian of the Deep
+•
+Basic:
+Shoot tendrils that link to nearby allies, providing healing and healing over time until they expire. Excess healing is converted to Bonus Health. Cooldown applied.
+•
+Enhanced:
+Tendrils now also link to nearby enemies, dealing damage over time.
+Deadpool provides: Mr. Pool’s Interdimensional Toy Box
+•
+Basic:
+Summon a dome that heals allies over time and Taunts enemies for its duration. Cooldown applied.
+•
+Enhanced:
+The Taunt effect is increased, and damage is now dealt to enemies over time.
+Jubilee (Strategist)
+The Hood provides: Hellfire Sparks
+•
+Basic:
+When Attack Speed is increased, Energy Plasmoids become hitscan, grant self-healing on hit, and can deal critical hits.
+•
+Enhanced:
+Sparkle Marks are not cleared on hit, allowing Attack Speed increase to be re-triggered indefinitely.
+Blade provides: Vampiric Kin
+•
+Basic:
+Activate a field around you that converts damage into healing for you and allies for its duration. Cooldown applied.
+•
+Enhanced:
+The field now also provides healing over time.
+Loki (Strategist)
+Hela provides: Villain’s Illusion
+•
+Basic:
+Assume the form of a defeated hero for a period and use their abilities, except Ultimates. Cooldown applied.
+•
+Enhanced:
+The period is extended. Taking lethal damage while transformed will revert you back to Loki with some health.
+Mantis provides: Vibrant Vitality
+•
+Basic:
+Regenerative Domain has an increased radius and provides a damage boost.
+•
+Enhanced:
+Summoning Regenerative Domain now deals damage to enemies and Knocks them back.
+Luna Snow (Strategist)
+White Fox provides: Atlas Bond
+•
+Basic:
+Fire a projectile forward that Charms enemies, heals allies, and cleanses negative effects on you. Cooldown applied.
+•
+Enhanced:
+The projectile now returns after reaching its max distance, repeating its effects. Cooldown is reduced.
+Adam Warlock provides: Duality Dance
+•
+Basic:
+Link to nearby allies and enemies for a period. Damaging linked enemies and healing linked allies restores your health. Cooldown applied.
+•
+Enhanced:
+Critical hits with Light & Dark Ice now reduce the cooldowns of Absolute Zero and Ice Arts.
+Magik (Duelist)
+Doctor Strange provides: Chain of Cyttorak
+•
+Basic:
+Tether two enemies together, dealing damage over time pulling them to the center and applying Slow based on distance from center until duration ends. Cooldown applied.
+•
+Enhanced:
+Tether can now connect an unlimited number of enemies together.
+The Hood provides: Void Pentagram
+•
+Basic:
+Summon a field that exists for a period. Using Stepping Discs in the field refunds some of its cooldown cost and automatically summons a Limbo Demon. Cooldown applied.
+•
+Enhanced:
+Limbo Demons summoned in the field have increased health and attack range.
+Magneto (Vanguard)
+Scarlet Witch provides: Metallic Chaos
+•
+Basic:
+Activate to replace Iron Volley with large projectiles that are sent forward, dealing direct damage and splash damage for its duration. Cooldown applied.
+•
+Enhanced:
+Mag-Cannon is replaced, allowing you to charge and fire multiple projectiles quickly, dealing direct damage and splash damage.
+Emma Frost provides: Magnetic Resonance
+•
+Basic:
+Cast a projection that mimics your movement and abilities for a percentage of damage until its duration ends. Cooldown applied.
+•
+Enhanced:
+The projection has increased health and no longer expires.
+Mantis (Strategist)
+Star-Lord provides: Star Blossom
+•
+Basic:
+Healing Flower has increased healing. Applying a Healing Flower on an ally who already has the effect will enhance its healing rate and heal nearby allies.
+•
+Enhanced:
+Healing Flower now applies the enhanced healing rate and heals nearby allies on its initial cast.
+Adam Warlock provides: Vitality Pact
+•
+Basic:
+Self-healing from using Natural Anger is increased. Also, freely move as a soul upon defeat, healing allies in a radius and reviving at a chosen spot. Cooldown applied.
+•
+Enhanced:
+You can now use Soul Bond with allies when freely moving as a soul, providing healing over time and sharing damage across allies up to a set maximum.
+Mister Fantastic (Duelist)
+Rocket Raccoon provides: Fantastic Amplifier
+•
+Basic:
+Elasticity’s limit is increased. Inflation State can be activated manually. Cooldown applied.
+•
+Enhanced:
+Brainiac Bounce now Launches enemies inwards.
+The Thing provides: Clobberin’ Research Dept.
+•
+Basic:
+Activate to enter a brawling stance. Stretch Punch becomes chargeable, with damage that scales with charge and providing Bonus Health that scales with damage up to a maximum. Fully charged hits also Launch enemies back. Cooldown applied.
+•
+Enhanced:
+Brawling stance now also makes Distended Grip chargeable, slamming down an attack on a shorter cooldown with damage that scales with charge.
+Moon Knight (Duelist)
+Cloak & Dagger provide: Luminous Moon
+•
+Basic:
+Enter a phased state and dash forward, then emit a pulse of healing around you. Cooldown applied.
+•
+Enhanced:
+Phased state lasts longer, the dash travels further, and the healing is greater in a larger space.
+Elsa Bloodstone provides: Blood Moon
+•
+Basic:
+Deploy an Ankh Trap that summons a Talon of Khonshu that deals damage and launches enemies inwards when they enter its radius. Ankh Traps become invisible after a period. Cooldown applied.
+•
+Enhanced:
+Talon of Khonshu is replaced with weaker Talons that fall in quick succession.
+Namor (Duelist)
+Hulk provides: Gamma Monstro
+•
+Basic:
+Summon an additional Monstro that autonomously attacks the nearest enemy, with damage increasing on single targets over time. Cooldown applied.
+•
+Enhanced:
+Blessing of the Deep grants active Gamma Monstro a damage boost and increases its cooldown recovery speed.
+Luna Snow provides: Chilling Charisma
+•
+Basic:
+Send a large projectile forward that damages, pushes back, and inflicts Slow on all enemies hit. Cooldown applied.
+•
+Enhanced:
+Projectile applies damage and inflicts a stronger Slow when it reaches max distance. Ability also gains a second charge.
+Peni Parker (Vanguard)
+Black Panther provides: Vibranium Mech
+•
+Basic:
+Activate to increase the fire rate of Cyber-Web Cluster and summon a frontal shield for its duration. Cooldown applied.
+•
+Enhanced:
+The frontal shield is now larger and has more health.
+Rocket Raccoon provides: Rocket Network
+•
+Basic:
+Activate to summon an additional nest that drops Armor Packs periodically and spawns Spider-Drones. Cooldown applied.
+•
+Enhanced:
+The additional nest will now regenerate its health, and Rocket Raccoon’s item is now summoned with a Cyber-Web, generating Spider-Drones and Arachno-Mines.
+Phoenix (Duelist)
+Hela provides: Circle of Life
+•
+Basic:
+Telekinesis Burst is replaced with Phoenix Netherfire which quickly blasts the same location multiple times, each time applying a Spark. First blast inflicts damage and Stun. Additional blasts inflict damage and Healing Reduction. Cooldown is increased.
+•
+Enhanced:
+Each explosion now applies multiple Sparks.
+Rogue provides: Telekinetic Beatdown
+•
+Basic:
+Fire a delayed hitscan shot forward that sends the Phoenix Force to attack the target, attacking additional targets if they are in range of the previous up to a set maximum of bounces. Each attack also applies a Spark and provides self-healing. Cooldown applied.
+•
+Enhanced:
+Detection radius is increased, max bounces increased, self-healing increased, and attacks now apply multiple Sparks.
+Psylocke (Duelist)
+Emma Frost provides: Mental Projection
+•
+Basic:
+Project an illusion forward that uses Psi-Blade Dash, while you enter Stealth. The illusion mimics your movement and attacks for a portion of damage. Cooldown applied.
+•
+Enhanced:
+Activate the ability again to swap places with the illusion.
+Cloak & Dagger provide: Light & Dark Darts
+•
+Basic:
+Summon a field that activates your Stealth, and send out darts around you that deal damage and heal you upon impact until duration ends. Cooldown applied.
+•
+Enhanced:
+The field’s size is increased and re-entering it will send darts out again.
+Rocket Raccoon (Strategist)
+Squirrel Girl provides: Mammalian Bond
+•
+Basic:
+Throw acorns that can be consumed by allies, providing healing and reducing all cooldowns. Multiple charges. Cooldown applied.
+•
+Enhanced:
+Ability gains an additional charge.
+Groot provides: Planet X Pals
+•
+Basic:
+Bombard Mode is replaced for a period, launching projectiles that deal damage and damage over time within the splash, while providing healing and Bonus Health to allies. Cooldown applied.
+•
+Enhanced:
+The ability’s duration is increased. You can also ride on Groot’s shoulder.
+Rogue (Vanguard)
+Gambit provides: Mr. & Mrs. X
+•
+Basic:
+Activating makes every attack trigger an explosion that deals damage and healing for a period. Cooldown applied.
+•
+Enhanced:
+The effect no longer ends.
+Magneto provides: Explosive Entanglement
+•
+Basic:
+Defensive Stance’s damage reduction is increased and now incoming damage is entirely converted for Southern Brawl.
+•
+Enhanced:
+Southern Brawl now Knocks enemies back, and if they hit a wall it deals extra damage.
+Scarlet Witch (Duelist)
+Doctor Strange provides: Sorcerers Supreme
+•
+Basic:
+Chthonian Burst is replaced with rapid-fire projectiles that deal damage. This uses an energy pool that recharges when using Chaos Control. Holding fire drains energy.
+•
+Enhanced:
+The energy pool is increased and recharging with Chaos Control is faster. Holding fire also drains energy faster.
+Jubilee provides: Hex Fireworks
+•
+Basic:
+Dark Seal can now be activated again to detonate an explosion that deals damage and applies Vulnerability.
+•
+Enhanced:
+Mystic Projection now provides self-healing.
+Spider-Man (Duelist)
+Venom provides: Symbiote Bond
+•
+Basic:
+Activate to receive damage reduction and send spikes out that deal damage and damage over time to nearby enemies. Cooldown applied.
+•
+Enhanced:
+Damage over time is increased and hit enemies are also inflicted with Slow.
+Peni Parker provides: Parker Power-Up
+•
+Basic:
+Activate to receive Bonus Health and prime a bomb that can be thrown to deal damage and apply Spider-Tracers to hit enemies after it explodes. Or hold onto the bomb to recharge Web-Cluster shots when it explodes. Cooldown applied.
+•
+Enhanced:
+Hitting enemies who have Spider-Tracers now provides Bonus Health.
+Squirrel Girl (Duelist)
+Iron Man provides: Squirrel Missile
+•
+Basic:
+Fire a homing missile that deals an explosion. Cooldown applied.
+•
+Enhanced:
+Using Squirrel Blockade now also fires a homing missile.
+Spider-Man provides: ESU Alumnus
+•
+Basic:
+Fire a bomb that explodes on impact, dealing damage and applying Slow to enemies in range. Cooldown applied.
+•
+Enhanced:
+The bomb now creates a field for a period that applies damage over time and completely stuns enemies who are in it for too long.
+Star-Lord (Duelist)
+Groot provides: Flora Munitions
+•
+Basic:
+Throw a projectile that spawns snares after a moment and last for a period that each deal damage and Stun enemies. Cooldown applied.
+•
+Enhanced:
+The amount of snares that are spawned is increased and they each deal more damage.
+Adam Warlock provides: Star-Soul
+•
+Basic:
+Place a beacon that you can teleport to at any point by activating the ability again. Cooldown applied. Also, respawn at the beacon automatically upon death with a longer cooldown attached.
+•
+Enhanced:
+Participating in a KO now reduces the ability’s cooldown.
+Storm (Duelist)
+Thor provides: God of Thunder
+•
+Basic:
+Wind Blade deals less direct damage but is now hitscan with splash damage and the ability to critical hit.
+•
+Enhanced:
+Bolt Rush has a faster cooldown, greater range and can now bounce from surfaces and enemies to nearby enemies for additional direct damage.
+Jeff the Land Shark provides: Jaws of Fate
+•
+Basic:
+Activate a field that provides healing over time to self and allies for a period. Cooldown applied.
+•
+Enhanced:
+Jeff the Land Shark can enter Omega Hurricane to increase its range and duration. Enemies caught in the hurricane for enough time are also swallowed until the ability ends.
+The Punisher (Duelist)
+Daredevil provides: Bestial Hunt
+•
+Basic:
+Adjudication and Deliverance receive a damage boost and their bullets now penetrate targets.
+•
+Enhanced:
+Adjudication and Deliverance now deal more damage to shields.
+Rocket Raccoon provides: Ammo Overload
+•
+Basic:
+Summon a field that provides a faster fire rate for Adjudication and Deliverance. Cooldown applied.
+•
+Enhanced:
+The field now grants infinite ammo for Adjudication and Deliverance.
+The Thing (Vanguard)
+Human Torch provides: Two In One
+•
+Basic:
+Activate an enhanced state where Rocky Jab now deals splash damage and Stone Haymaker deals long-range damage in a cone. Cooldown applied.
+•
+Enhanced:
+The Thing can be picked up by Human Torch and carried at high speed. Being dropped deals splash damage and applies Stun, and automatically activates The Thing’s enhanced state. Cooldown applied.
+Invisible Woman provides: Unbreakable Forces
+•
+Basic:
+Activate to gain Bonus Health per second up to a set maximum for a period. Being at low health increases the rate of Bonus Health accumulation. A portion of damage from incoming hits returns to you as Bonus Health. Cooldown applied.
+•
+Enhanced:
+When ability is active, taking enough damage sends a pulse of healing for allies. A higher portion of damage from incoming hits returns to you as Bonus Health.
+Thor (Vanguard)
+Hela provides: Ragnarok Rebirth
+•
+Basic:
+Temporarily revive with damage reduction, a decaying pool of Bonus Health, and total Anti-Heal upon death, fully resurrecting with some health upon participation of a KO. Cooldown applied.
+•
+Enhanced:
+Resurrection now happens if Hela participates in a KO. Resurrection also now comes with some healing over time.
+Angela provides: Divine Armory
+•
+Basic:
+Throw a spear that deals splash damage and restores Thorforce when hitting an enemy. Activate again to leap to the spear, dealing another instance of splash damage. Cooldown applied.
+•
+Enhanced:
+Leaping to the spear now grants Bonus Health.
+Ultron (Strategist)
+Iron Man provides: Stark Protocol
+•
+Basic:
+Upgrade Encephalo-Ray to deal piercing damage and healing, without needing to reload, until the period ends. Cooldown applied.
+•
+Enhanced:
+Imperative: Firewall now also fires a cluster of homing missiles from you and all active drones at enemies in range, each missile dealing splash damage.
+Peni Parker provides: SP//dr Sync
+•
+Basic:
+Activate to apply weaker Imperative: Patch drones to all allies on the map briefly. Cooldown applied.
+•
+Enhanced:
+Imperative: Firewall is now applied to all active Imperative: Patch drones.
+Venom (Vanguard)
+Blade provides: Blood Leech
+•
+Basic:
+Cellular Corrosion now also deals damage over time with all of this damage returning to you as health. A portion of Cellular Corrosion’s explosion damage also heals you.
+•
+Enhanced:
+Using other abilities also grants one-time healing.
+Phoenix provides: Abyssal Flames
+•
+Basic:
+Activate to replace Dark Predation with a sweeping frontal melee attack for a period. Cooldown applied.
+•
+Enhanced:
+Attacking during activation now applies Sparks on enemies which detonate upon reaching a set number of stacks.
+White Fox (Strategist)
+Black Cat provides: Lucky Loan
+•
+Basic:
+Activating recovers a Spirit Tail and summons an aura that heals and Speed Boosts allies, and deals damage over time and Slow to enemies for its duration. Cooldown applied.
+•
+Enhanced:
+During activation, Spirit Tails aren’t consumed by uses of Spectral Surge and Fox Form. Duration is also increased.
+Psylocke provides: Psionic Fox
+•
+Basic:
+Fox Form Awakening is always at its maximum duration and becomes a traditional cooldown that no longer requires Spirit Tails.
+•
+Enhanced:
+The cooldown for Fox Form Awakening is reduced.
+Winter Soldier (Duelist)
+The Punisher provides: Timeless Veterans
+•
+Basic:
+Fire electricity forward that deals damage and Knocks enemies back. Cooldown applied.
+•
+Enhanced:
+The attack Knocks enemies back further and now Grounds them.
+Elsa Bloodstone provides: Expert Instinct
+•
+Basic:
+Dealing enough damage, or participating in a KO, will grant a stack of Culling Instinct up to a set maximum. Each stack reduces the cooldowns of other abilities. A stack is lost on death.
+•
+Enhanced:
+Bonus health granted by uses of Ceaseless Charge is also increased.
+Wolverine (Duelist)
+Cyclops provides: Blast Slash
+•
+Basic:
+Activate to increase range of Savage Claw and Berserk Claw Strike for a period. Vicious Rampage now deals a lunge that releases melee damage in all directions for a period. Cooldown applied.
+•
+Enhanced:
+Blast Slash is always active.
+Gambit provides: Pair of Threes
+•
+Basic:
+Activate to gain a Speed Boost and bonus jump height for a period. Attacking enemies during the period also deals an additional instance of damage after a moment. Cooldown applied.
+•
+Enhanced:
+Also receive healing over time during the ability.
+Authored by
+Craig
+Robinson
+Craig Robinson is an experienced gaming and esports writer with nearly a decade of coverage experience since 2015. With a background in software engineering, he combines his journalistic expertise with a strong understanding of technical SEO and web development fundamentals. He’s passionate about covering MMO games, competitive esports, and crafting guides that help players get the most out of their favorite titles.
+He's been writing about gaming and esports for over 10 years, which started as  for fun project during university. He has since developed his skill set, contributing to newsrooms coverage of key games and event, and blending evergreen content strategy and a solid grasp of content marketing fundamentals. His work has appeared in Esports News UK, Gamer Guides, theEscpaist, and VideoGamer, and he now contributes to Gamehub's review team. When he’s not writing, Craig can usually be found running, at the gym, or tinkering with coding projects to keep his GitHub active.
+Full Bio Craig Robinson
+Related News
+Trending News
+Emergency Room Simulator brings high-pressure hospital shifts, just like you were starring in The Pitt
+24 July 2026
+PC
+Creative Assembly open sign ups for Total War: Warhammer 40,000 closed beta, with it starting ‘soon’
+24 July 2026
+PC
+Creative Assembly show off ranged combat gameplay in Total War: Warhammer 40K
+24 July 2026
+PC
+If you’re looking for the Perspective Skull in Halo: Campaign Evolved, here’s its location
+24 July 2026
+PC
+Hell Let Loose: Vietnam open crossplay playtest begins this weekend
+24 July 2026
+PC
+All News
+Marvel Rivals – The Death of Gambit case guide
+16 July 2026
+PC
+Kazeta turns DRM-free PC games into SD card carts, as we look for physical game solutions, and fight back against a forced digital future
+21 July 2026
+PC
+Marvel Rivals – Death of Apocalypse full event walkthrough
+16 July 2026
+PC
+Marvel Rivals – The Death of Psylocke case guide
+13 July 2026
+PC
+Disney Dreamlight Valley: Honeyglow Woods review – A controversial release divides the Valley
+21 July 2026
+PC
+All News
+Categories
+PlayStation News
+Xbox News
+PC News
+Board Game News
+Latest News
+Emergency Room Simulator brings high-pressure hospital shifts, just like you were starring in The Pitt
+24 July 2026
+Article
+Emergency. Paging Dr Beat. So started the seminal 1980s pop record by the Miami Sound Machine. That has little relevance here other than it just popped into my weird brain…
+Creative Assembly show off ranged combat gameplay in Total War: Warhammer 40K
+24 July 2026
+News
+Hell Let Loose: Vietnam open crossplay playtest begins this weekend
+24 July 2026
+Guides
+Aliens: Fireteam Elite 2 release date confirmed, with 40th Anniversary and Alien: Romulus Editions too
+23 July 2026
+News
+WoW GM accused of cheating in M+ run, implicating streamer connections and title chasers
+22 July 2026
+News
+Marvel Rivals gets a new Thebes Convoy map as part of the Death of Apocalypse event
+21 July 2026
+News
+Latest Gaming News
+Game Reviews
+Pokémon: News & Guides
+Elden Ring: News & Guides
+International Guides
+About
+About
+Affiliate Disclosure
+Contact Us
+Disclaimer
+Editorial Policy
+How we rate
+Meet the Team
+Privacy Policy
+Responsible Gaming
+Terms & Conditions
+Gaming News
+PC News
+PlayStation News
+Xbox News
+Nintendo News
+Board Games News
+Culture News
+Game Development News
+Business News
+Gaming Stocks News
+Interviews News
+Gambling Guides
+Online Casinos
+Crypto Casinos
+Betting Sites
+Fast Withdrawal Casinos
+Online Pokies
+Casino Apps
+Betting Apps
+PayID Online Casinos
+Best Payout Online Casinos
+Inclave Casinos
+Popular Slots
+Le Bandit
+Wanted Dead or a Wild
+Gates Of Olympus
+Gate of Olympus Super Scatter
+Tome Of Madness
+Wild Bounty Showdown
+Fortune Mouse
+Sweet Bonanza
+Brute Force
+Mega Joker
+© 2026 Gameshub FZ-LLC, All rights reserved
+Gameshub FZ-LLC, Office 12, Floor 8, Emirates Pearl Tower, Sheikh Zayed Road, Al Quoz Industrial Area 3, Dubai, United Arab Emirates
+English
+English
+عربي
+Čeština
+Suomi
+Français
+Deutsch
+Ελληνικά
+Magyar
+日本語
+한국인
+Italiano
+Nederlands
+Norsk
+Polski
+Português
+Español
+Svenska
+↑

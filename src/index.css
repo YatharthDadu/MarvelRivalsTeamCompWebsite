@@ -1,0 +1,483 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Teko:wght@400;600;700&display=swap');
+
+:root {
+  /* Marvel Rivals Aesthetics */
+  --color-bg: #0a0b10;
+  --color-panel: rgba(20, 22, 35, 0.7);
+  --color-border: rgba(255, 255, 255, 0.15);
+  
+  --color-primary: #fadb2a; /* Galacta Gold */
+  --color-accent: #5e17eb; /* Void Purple */
+  --color-accent-hover: #00f0ff; /* Neon Cyan */
+  --color-magenta: #ff0055; /* Energy Magenta */
+  
+  --color-text: #ffffff;
+  --color-text-muted: #e0e5ec;
+  
+  /* Role Colors matching in-game roughly */
+  --role-vanguard: #3a86ff;
+  --role-duelist: #ff0055;
+  --role-strategist: #00f0ff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: 'Outfit', sans-serif;
+  min-height: 100vh;
+  /* Deep Cosmic Background with Halftone/Dots emulation */
+  background-image: 
+    radial-gradient(circle at 15% 50%, rgba(94, 23, 235, 0.25), transparent 35%),
+    radial-gradient(circle at 85% 30%, rgba(0, 240, 255, 0.15), transparent 35%),
+    radial-gradient(circle at 50% 100%, rgba(250, 219, 42, 0.1), transparent 40%),
+    linear-gradient(rgba(10, 11, 16, 0.9), rgba(10, 11, 16, 0.9)),
+    url('data:image/svg+xml;utf8,<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg"><circle cx="2" cy="2" r="1.5" fill="rgba(255,255,255,0.03)"/></svg>');
+  background-attachment: fixed;
+  overflow-x: hidden;
+}
+
+.app-container {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-family: 'Teko', sans-serif;
+  font-size: 4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-style: italic;
+  letter-spacing: 2px;
+  background: linear-gradient(to right, var(--color-primary), #ffd000, var(--color-accent-hover));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.25rem;
+  text-shadow: 0 0 20px rgba(250, 219, 42, 0.3);
+}
+
+.subtitle {
+  color: var(--color-text-muted);
+  font-size: 1.1rem;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+/* Layout */
+.main-content {
+  display: grid;
+  grid-template-columns: 450px 1fr;
+  gap: 2rem;
+}
+
+.panel {
+  background: var(--color-panel);
+  border: 1px solid var(--color-border);
+  border-radius: 4px; /* Sharper corners for action feel */
+  padding: 1.5rem;
+  backdrop-filter: blur(12px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+  position: relative;
+  overflow: hidden;
+}
+
+.panel::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-accent-hover));
+}
+
+.panel-title {
+  font-family: 'Teko', sans-serif;
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+}
+
+/* Filters */
+.filter-section {
+  margin-bottom: 1.5rem;
+}
+
+.filter-label {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  gap: 0.75rem;
+}
+
+.hero-btn {
+  background: rgba(0, 0, 0, 0.6);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: 0.5rem;
+  color: var(--color-text);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  position: relative;
+  /* Skewed buttons for that Marvel Rivals action UI */
+  transform: skewX(-5deg);
+}
+
+.hero-btn > * {
+  transform: skewX(5deg); /* Unskew content */
+}
+
+.hero-btn:hover {
+  background: rgba(94, 23, 235, 0.3);
+  border-color: var(--color-accent-hover);
+  box-shadow: 0 0 12px rgba(0, 240, 255, 0.4);
+}
+
+.hero-btn.selected {
+  border-color: var(--color-accent-hover);
+  background: rgba(0, 240, 255, 0.15);
+  box-shadow: 0 0 15px rgba(0, 240, 255, 0.3);
+}
+
+.hero-btn.main-selected {
+  border-color: var(--color-primary);
+  background: rgba(250, 219, 42, 0.2);
+  box-shadow: 0 0 15px rgba(250, 219, 42, 0.5);
+}
+
+.hero-icon-container {
+  position: relative;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  border-radius: 4px;
+}
+
+.hero-icon-container .role-indicator {
+  position: absolute;
+  bottom: -4px;
+  right: -4px;
+  margin: 0;
+  border: 1px solid rgba(0,0,0,0.5);
+}
+
+.hero-name {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+.role-indicator {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px; /* Square/diamond shape instead of circles */
+  transform: rotate(45deg); /* Diamond shape */
+  margin-bottom: 4px;
+  margin-top: 4px;
+}
+
+.role-vanguard { background-color: var(--role-vanguard); box-shadow: 0 0 8px var(--role-vanguard); }
+.role-duelist { background-color: var(--role-duelist); box-shadow: 0 0 8px var(--role-duelist); }
+.role-strategist { background-color: var(--role-strategist); box-shadow: 0 0 8px var(--role-strategist); }
+
+/* Formations (Gauges style) */
+.formation-inputs {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.form-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 0.5rem;
+  border-radius: 4px;
+  border: 1px solid var(--color-border);
+  transform: skewX(-5deg);
+}
+
+.form-group > * {
+  transform: skewX(5deg);
+}
+
+.form-group label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  color: var(--color-text-muted);
+}
+
+.form-group input {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid var(--color-border);
+  color: var(--color-text);
+  font-family: 'Teko', sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 0.1rem;
+  outline: none;
+  transition: all 0.2s ease;
+}
+
+.form-group input:focus {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  text-shadow: 0 0 8px rgba(250, 219, 42, 0.5);
+}
+
+.role-box-vanguard label { color: var(--role-vanguard); }
+.role-box-duelist label { color: var(--role-duelist); }
+.role-box-strategist label { color: var(--role-strategist); }
+
+.formation-warning {
+  margin-top: 1rem;
+  padding: 0.75rem;
+  background: rgba(255, 0, 85, 0.15);
+  border: 1px solid var(--color-magenta);
+  border-radius: 4px;
+  color: #ffb3c6;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(255, 0, 85, 0.2);
+}
+
+/* Teams */
+.team-results {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.team-card {
+  background: linear-gradient(145deg, rgba(30, 32, 50, 0.8), rgba(15, 17, 25, 0.9));
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: 1.25rem;
+  position: relative;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.team-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.team-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.25rem;
+}
+
+.synergy-score {
+  font-family: 'Teko', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  text-shadow: 0 0 10px rgba(250, 219, 42, 0.4);
+}
+
+.team-roster {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.roster-member {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 0.4rem 0.75rem;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transform: skewX(-5deg);
+}
+
+.roster-icon-container {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+
+.roster-icon {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  border-radius: 4px;
+}
+
+.roster-icon-container .role-indicator {
+  position: absolute;
+  bottom: -4px;
+  right: -4px;
+  width: 10px;
+  height: 10px;
+  margin: 0;
+  border: 1px solid rgba(0,0,0,0.5);
+}
+
+.roster-member > * {
+  transform: skewX(5deg);
+}
+
+.roster-member.is-main {
+  border-color: var(--color-primary);
+  background: rgba(250, 219, 42, 0.15);
+  box-shadow: 0 0 10px rgba(250, 219, 42, 0.2);
+}
+
+.team-ups-list {
+  background: rgba(0, 0, 0, 0.4);
+  padding: 1rem;
+  border-radius: 4px;
+  border-left: 3px solid var(--color-accent-hover);
+}
+
+.team-ups-list h4 {
+  font-family: 'Teko', sans-serif;
+  font-size: 1.2rem;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 0.75rem;
+}
+
+.team-up-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+}
+
+.team-up-item:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.team-up-name {
+  font-weight: 800;
+  color: var(--color-accent-hover);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  text-transform: uppercase;
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
+}
+
+.team-up-desc {
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  line-height: 1.5;
+  font-weight: 300;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--color-text-muted);
+  font-size: 1.1rem;
+  font-weight: 300;
+}
+
+.generate-btn {
+  width: 100%;
+  padding: 1rem;
+  background: linear-gradient(135deg, var(--color-accent), var(--color-magenta));
+  color: white;
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 4px;
+  font-family: 'Teko', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  margin-top: 1.5rem;
+  transform: skewX(-5deg);
+  box-shadow: 0 4px 15px rgba(94, 23, 235, 0.4);
+}
+
+.generate-btn > span {
+  display: inline-block;
+  transform: skewX(5deg);
+}
+
+.generate-btn:hover {
+  background: linear-gradient(135deg, var(--color-magenta), var(--color-accent));
+  box-shadow: 0 6px 20px rgba(255, 0, 85, 0.5);
+  border-color: rgba(255,255,255,0.4);
+}
+
+@media (max-width: 900px) {
+  .main-content {
+    grid-template-columns: 1fr;
+  }
+}
