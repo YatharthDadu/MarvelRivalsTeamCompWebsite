@@ -3,7 +3,7 @@
 ## Description
 The **Marvel Rivals Team-Up Builder** is the ultimate tool to discover the best team compositions for you and your friends. By taking into account your group's unique hero pools, role formations, and in-game synergies, this app calculates the most mathematically optimal squads to give you a competitive edge. Whether you are running a casual 6-stack or sweating in competitive matches, this builder ensures your team gets the maximum benefit from Marvel Rivals' team-up mechanics!
 
-**🔗 [Play with the App Here!](https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>)** *(Link placeholder - update once deployed to GitHub Pages)*
+**🔗 [Play with the App Here!](https://yatharthdadu.github.io/MarvelRivalsTeamCompWebsite/)**
 
 ## Features
 - **Hero Pool Optimization:** Assign specific hero pools for up to 6 different players so the generator only creates teams using heroes your squad actually plays.
