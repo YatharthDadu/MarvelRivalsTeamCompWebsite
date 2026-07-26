@@ -218,7 +218,7 @@ function HeroTile({ hero, picked, index, onClick }) {
     >
       <div className="tile-role"><RoleIcon role={hero.role} size={11} /></div>
       <div className="tile-portrait">
-        <img src={`/heroes/${hero.id}.webp`} alt={hero.name} loading="lazy" onError={handleError} />
+        <img src={`${import.meta.env.BASE_URL}heroes/${hero.id}.webp`} alt={hero.name} loading="lazy" onError={handleError} />
       </div>
       <div className="tile-name">{hero.name}</div>
       <div className="tile-shine" />
@@ -244,7 +244,7 @@ function LordAvatar({ hero }) {
 
   return (
     <img
-      src={`/avatars/${hero.id}.webp`}
+      src={`${import.meta.env.BASE_URL}avatars/${hero.id}.webp`}
       alt={hero.name}
       loading="lazy"
       onError={(e) => { if (!retryImageOnce(e.target)) setMissing(true); }}
